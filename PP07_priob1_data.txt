@@ -1,0 +1,7 @@
+line1	727	891	yes		
+line2  53	208	no		
+line10             1933	1035	no		
+line14    162	         100	          yes		
+line100 	41   314	yes		
+line106   55 	112	yes		
+line110        639	          800	yes		
